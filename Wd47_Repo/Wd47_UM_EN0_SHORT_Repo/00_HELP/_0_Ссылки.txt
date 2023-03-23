@@ -1,0 +1,5 @@
+порекомендуйте расширение markdown для visual studio code
+.....
+Top 5 VSCode Extensions for Markdown
+https://coderscat.com/awesome-vscode-extensions-for-markdown/
+=====
